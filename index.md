@@ -1,15 +1,15 @@
 ---
 layout: home
 title: Рыжков Дмитрий Сергеевич
-tagline: Аспирант ШФ ИвГУ | Инженер-программист
-header:  
-  overlay_image: /images/header-bg.jpg  
-  caption: "Фото: Конференция 'Энергия 2024'"  
+# tagline: Аспирант ШФ ИвГУ | Инженер-программист
+# header:  
+#   overlay_image: /images/header-bg.jpg  
+#   caption: "Фото: Конференция 'Энергия 2024'"  
 ---
 
 <!-- {% include features.html %}  # Блок с иконками-ссылками -->
 
-![Фото](images/photo_placeholder.jpg){: width="200" }
+![Фото](images/header-bg.jpg){: width="200" }
 
 **Направление подготовки**:  
 2.3.5 "Математическое и программное обеспечение вычислительных систем, комплексов и компьютерных сетей"
