@@ -1,7 +1,7 @@
 title: Рыжков Дмитрий Сергеевич  
 description: Научная и профессиональная деятельность  
 permalink: /blog/:year-:month-:day-:title.html  
-theme: jekyll-theme-text 
+# theme: jekyll-theme-text 
 remote_theme: kitian616/jekyll-TeXt-theme 
 plugins:
   - jekyll-feed  
