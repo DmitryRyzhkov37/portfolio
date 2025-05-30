@@ -1,13 +1,7 @@
 ---
 layout: home
 title: Рыжков Дмитрий Сергеевич
-# tagline: Аспирант ШФ ИвГУ | Инженер-программист
-# header:  
-#   overlay_image: /images/header-bg.jpg  
-#   caption: "Фото: Конференция 'Энергия 2024'"  
 ---
-
-<!-- {% include features.html %}  # Блок с иконками-ссылками -->
 
 ![Фото](images/header-bg.jpg){: width="200" }
 

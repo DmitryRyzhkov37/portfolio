@@ -1,14 +1,7 @@
 ---
 layout: page
 title: Научная деятельность
-# nav: true  # Показывать в меню  s
 ---
-
-<!-- ## Публикации  
-{% for pub in site.data.publications %}  
-- **{{ pub.title }}** ({{ pub.year }})  
-  [PDF](/docs/{{ pub.file }})  
-{% endfor %}  -->
 
 ### Публикации
 1. "Методика прогнозирования пассажиропотоков..." (2024)  
